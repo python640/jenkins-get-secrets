@@ -1,7 +1,8 @@
 # jenkins_get_secrets
 Groovi script for Jenkins to retrieve and decrypt secrets.
 
-Prerequisite:
+Prerequisites:
+
 You have to login as Jenkins admin
 
 How to run:
